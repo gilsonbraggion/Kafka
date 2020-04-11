@@ -10,4 +10,23 @@ class SpringBootKafkaApplicationTests {
 	void contextLoads() {
 	}
 
+	
+	
+	/**
+	 * Para realizar o start do Kafka: 
+	 * 
+	 * ./zookeeper-server-start.sh ../config/zookeeper.properties 
+	 * 
+	 * ./kafka-server-start.sh ../config/server.properties 
+	 * 
+	 */
+	
+	/**
+	 * Para criar o tópico no Kakfa: 
+	 * 
+	 * $ kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test 
+	 * 
+	 */
+	
+	
 }
