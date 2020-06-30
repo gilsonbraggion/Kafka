@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>rhinosistemas</groupId>
 	<artifactId>SpringBootKafka</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>SpringBootKafka</name>
 	<description>Teste nos serviços</description>
 
